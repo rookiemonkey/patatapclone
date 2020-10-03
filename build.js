@@ -49,6 +49,8 @@ const assets = [
     [`${dist_assets}/css/style.css`, '/style', 'css'],
     [`${dist_assets}/js/howler.js`, '/howler', 'js'],
     [`${dist_assets}/js/paper-full.js`, '/paper-full', 'js'],
+    [`${dist_assets}/js/particles.js`, '/particles', 'js'],
+    [`${dist_assets}/js/particles_config.js`, '/particles_config', 'js'],
     [`./index.html`, 'index', 'html']
 ]
 

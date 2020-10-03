@@ -7,6 +7,7 @@
     <link rel="stylesheet" href="/assets/css/style.css" />
     <script type="text/javascript" src="/assets/js/paper-full.js"></script>
     <script type="text/javascript" src="/assets/js/howler.js"></script>
+    <script type="text/javascript" src="/assets/js/particles.js"></script>
     <script type="text/paperscript" canvas="myCanvas">
 
         // defining the sounds using howler js. defined using an object
@@ -95,6 +96,9 @@
 </head>
 
 <body>
+
+    <div id="particles-js"></div>
+
     <header id="header">
 
         <h1 id="header-text">
@@ -108,7 +112,11 @@
         <small id="header-subtext">Please press any numbers or characters on your keyboard</small>
 
     </header>
+
     <canvas id="myCanvas"></canvas>
+
 </body>
+
+<script defer src="./assets/js/particles_config.js"></script>
 
 </html>
