@@ -4,7 +4,7 @@ A Patatap clone (see original: https://patatap.com/) that utilizes many javascri
 
 Consider checking the repo's issues, all of my todos are in there :smile:
 
-![Screenshot](./pararapclone.png)
+![Screenshot](./patatapclone.png)
 
 ## Author: <i>Kevin Roi R. Basina</i>
 <a href="https://github.com/rookiemonkey">
